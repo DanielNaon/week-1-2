@@ -1,0 +1,45 @@
+h1 {
+    color: blueviolet;
+    background-color: chartreuse;
+  }
+span {
+color: red;
+    background-color: aquamarine;
+}
+#foo {
+    color: blue;
+    background-color: brown
+}
+.ron {
+    color: goldenrod;
+    background-color: aquamarine;
+}
+.me {
+    color: red;
+    background-color: aquamarine;
+}
+.to {
+  color: #8B0807;
+}
+.foo {
+    color: #39A78E;
+}
+button:hover {
+    background-color: blue;
+    color: black;
+    border: 1px solid black;
+  }
+  div > p  {
+    color: green;
+  }
+  body {
+      background-color: #ddd;
+  }
+  
+  .nam {
+background-color: rgb(51, 51, 51);
+  }
+  
+  .never {
+      width: 100%;
+  }

@@ -1,0 +1,23 @@
+
+.form {
+    background-color: blue;
+    width: 180px;
+    height: 180px;
+    position: relative;
+}
+.form1 {
+    background-color: red;
+    height: 180px;
+    width: 10px;
+    position: absolute;
+    margin-left: 20px;
+
+}
+.form2 {
+    background-color: red;
+    height: 10px;
+    width: 180px;
+    position: absolute;
+    margin-top: 20px;
+ 
+}
