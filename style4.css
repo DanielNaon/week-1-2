@@ -1,0 +1,13 @@
+.black {
+    background-color: black;
+    width: 500px;
+    height: 200px;
+    padding: 5px;
+}
+.brown {
+    background-color: #66320E;
+    width: 95px;
+    height: 95px;
+    display: inline-block;
+
+}
