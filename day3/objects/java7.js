@@ -47,16 +47,17 @@ console.log(mylist)
 
 const reservations = {
     Bob: { claimed: false },
-    Ted: { claimed: true }
+    ted: { claimed: true }
 
   }
 
-  const name = prompt('Please enter the name for your reservation');
+  const name = prompt('Please enter the name for your reservation' ).toLowerCase()
 
   if(reservations[name]) {
       if(reservations[name].claimed)
       {
         console.log("Hmm, someone already claimed this reservation")
+        console.log(reservations)
       }
       
         else {
@@ -66,8 +67,8 @@ const reservations = {
         console.log(name + "there is nothing under their name")
         reservations[name]= {claimed: true}
         console.log(reservations)
+    
     }
 
-   
-
-    
+    let enoughMoneyInBank = false
+    let hasJob = true

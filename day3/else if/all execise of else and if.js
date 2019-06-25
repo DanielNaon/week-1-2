@@ -1,5 +1,5 @@
 
-/*let enoughMoneyInBank = false
+*let enoughMoneyInBank = false
 let hasJob = true
 
 if(enoughMoneyInBank) {
@@ -14,7 +14,7 @@ if(enoughMoneyInBank) {
     }
 }*/
 
-/*// execise 1
+*// execise 1
 let numChildren = prompt("what is your number of children?");
 const isCareful = false;
 if(!isCareful) {
@@ -24,13 +24,13 @@ numChildren++
 }
 console.log(numChildren);*/
 
-/*// execise 2
+*// execise 2
 let silverwareCount = prompt("write a number in here!");
 if(silverwareCount % 2 != 0){
     console.log("yuston i think of a problem");
 }*/
 // execise 3
-/*let performance = "stellar"
+let performance = "stellar"
 let salary = 10000
 const goodBonus = 1000
 const stellarBonus = 3000
@@ -39,7 +39,7 @@ if(performance == "good"){
 }  else if(performance == "stellar") {
     salary+=stellarBonus
 }
-console.log(salary) */
+console.log(salary) 
 
 /*//execise 4
 const isVIP = false;
@@ -51,7 +51,7 @@ if(!isVIP || cash > 300){
     console.log("Hmph.")
   }*/
 
- /* // execise 6
+  // execise 6
 const gender = null
 let profession = "business"
 
@@ -63,7 +63,7 @@ if(gender == "male"){
         profession+= "person"
     } 
 
-console.log(profession);*/
+console.log(profession);
 
 //execise 7
 
